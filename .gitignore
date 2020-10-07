@@ -1,0 +1,18 @@
+##############################
+# Unity folders & files
+**/Library/
+**/obj/
+**/Temp/
+
+##############################
+# Source Files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
